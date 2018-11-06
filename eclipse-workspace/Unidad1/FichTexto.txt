@@ -1,0 +1,13 @@
+Albacete
+Avila
+Badajoz
+Cáceres
+Huelva
+Jaén
+Madrid
+Segovia
+Soria
+Toledo
+Valladolid
+Zamora
+*
